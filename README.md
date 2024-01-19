@@ -1,4 +1,4 @@
-# React + Vite
+ Set, Track, and Conquer Challenges Application
 
 This is a react project which entails a web application that allows user to create a challenges where user can mention the basic detials of challenges like title, description, deadline etc and then user can keep track of that challenges by marking it as completed, failed or active.
 
