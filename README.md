@@ -8,6 +8,8 @@ Features:
   Track your progress: See your growth over time with our analytics tools.
   Community Support: Join our community and get motivated by peers.
 
+Link: https://challenge-app-react.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
